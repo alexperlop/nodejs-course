@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-course",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "nodejs course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexperlop/nodejs-course.git"
+  },
+  "author": "Alexperlop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexperlop/nodejs-course/issues"
+  },
+  "homepage": "https://github.com/alexperlop/nodejs-course#readme",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
